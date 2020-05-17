@@ -1,3 +1,6 @@
 # classificando_imagens
 
-App para classificação de imagens de animais, utilizando a API do TensorFlow Lite.
+App para classificação de imagens de animais.
+Tecnologias utilizadas:
+- Flutter
+- TensorFlow Lite.
